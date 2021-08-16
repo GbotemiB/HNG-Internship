@@ -7,5 +7,5 @@ At the end of the internship (spanning 8 weeks), I hope to have a good understan
 Here are a few beginners tutorials
 - [Beginners Guide to Figma Basics](https://youtu.be/jk1T0CdLxwU)
 - [Git Tutorial for Beginners](https://youtu.be/8JJ101D3knE)
-- [JavaScript Tutorial for Beginners](https://youtu.be/W6NZfCO5SIk)
-- [HTML Tutorial for Beginners](https://youtu.be/qz0aGYrrlhU)
+- [Python Tutorial for Beginners](https://www.youtube.com/watch?v=_pE-jTcLXgY&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P)
+- [Django Tutorial for Beginners](https://www.youtube.com/watch?v=xE_9JXYYGvg&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=42)
