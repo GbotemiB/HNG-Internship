@@ -1,5 +1,5 @@
 # HNG-Internship
-Hi Comrades, I am exicted to let you know that I will be participating in the HNG8 x Ingressive For Good internship. 
+Hi Comrades, I am exicted to let you know that I will be participating in the HNG8 x Ingressive For Good internship Organized by [Zuri Team](https://internship.zuri.team).
 I will be participating in the Backend track. I will be using this opportunity to upskill myself by learning more, collaborating, and working in different teams. 
 
 At the end of the internship (spanning 8 weeks), I hope to have a good understanding of the Django Framework as well as have contributed to projects and tasks using Django. Let's go!!!
