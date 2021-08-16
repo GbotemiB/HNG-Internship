@@ -1,1 +1,11 @@
 # HNG-Internship
+Hi Comrades, I am exicted to let you know that I will be participating in the HNG8 x Ingressive For Good internship. 
+I will be participating in the Backend track. I will be using this opportunity to upskill myself by learning more, collaborating, and working in different teams. 
+
+At the end of the internship (spanning 8 weeks), I hope to have a good understanding of the Django Framework as well as have contributed to projects and tasks using Django. Let's go!!!
+
+Here are a few beginners tutorials
+- [Beginners Guide to Figma Basics](https://youtu.be/jk1T0CdLxwU)
+- [Git Tutorial for Beginners](https://youtu.be/8JJ101D3knE)
+- [JavaScript Tutorial for Beginners](https://youtu.be/W6NZfCO5SIk)
+- [HTML Tutorial for Beginners](https://youtu.be/qz0aGYrrlhU)
